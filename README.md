@@ -43,3 +43,19 @@ From the `practice_project` directory:
 
 ```bash
 python server.py
+```
+### Examples
+
+* Testing positive analysis
+![analyzer](https://github.com/user-attachments/assets/62a77d89-6bbd-4b78-99be-55ee43417825)
+
+
+* Testing empty blank input
+![empty_string](https://github.com/user-attachments/assets/11e22e1f-f0b4-405e-a2b2-b418f4585e1e)
+
+
+* Testing invalid input
+![invalid_string](https://github.com/user-attachments/assets/7509eb4b-96a7-42d2-8a51-3a01280d93b9)
+
+* Launch App
+![launch_app](https://github.com/user-attachments/assets/e68da24d-1f82-4e29-8b6f-e534fbe2e268)
