@@ -1,5 +1,3 @@
-This repo is for the practice project which is to be based on Embedded AI libraries. 
-
 # Python Flask Sentiment Analyzer
 
 This project is a simple web application built with Flask in Python that interacts with an IBM Watson Natural Language Processing (NLP) Sentiment Analysis service to determine the sentiment of a given text. It was developed as part of an IBM Skills Network course to practice integrating embedded AI services and building APIs with Flask.
